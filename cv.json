@@ -1,0 +1,110 @@
+{
+  "PersonalInformation": {
+    "Name": "Mustafa Kanli",
+    "Email": "info@mustafakanli.com",
+    "Phone": "+905535885367",
+    "LinkedIn": "linkedin.com/in/mustafakanli",
+    "GitHub": "github.com/MustafaKANLI"
+  },
+  "Summary": "Innovative and versatile Full-Stack Developer with a passion for cutting-edge web technologies and blockchain solutions. I excel in crafting exceptional user experiences and writing clean, efficient code. Skilled in React, Angular, .Net, Nodejs, and Solidity.",
+  "ProfessionalExperience": [
+    {
+      "Position": "Front-end Developer",
+      "Company": "Monassist Software",
+      "Duration": "8 months",
+      "Technologies": ["Angular", "Nextjs", "React"],
+      "Period": "2022-2023",
+      "Description": "Contributed to the development of dynamic web applications, creating seamless interfaces and implementing features for efficient user interaction."
+    },
+    {
+      "Position": "SKY Experience Traniee Engineer",
+      "Company": "Turkish Aerospace",
+      "Duration": "6 months",
+      "Technologies": ["React", "Nodejs"],
+      "Period": "2021-2022",
+      "Description": "Participated in the prestigious SKY Experience program, gaining hands-on experience in React and Nodejs while working on aerospace-related projects."
+    },
+    {
+      "Position": "Summer Intern",
+      "Company": "Turkish Aerospace",
+      "Duration": "1 month",
+      "Technologies": ["React", ".Net"],
+      "Period": "2022",
+      "Description": "Completed a highly successful summer internship, honing skills in React and .Net development while contributing to real-world projects."
+    }
+  ],
+  "WebProjects": [
+    {
+      "ProjectName": "Etl Project",
+      "Description": "Empowering users to extract, process, and save data from diverse sources using Nextjs. Crafted a captivating promotional website with Tailwind to showcase the application.",
+      "Technologies": ["Nextjs", "Tailwind"]
+    },
+    {
+      "ProjectName": "Product Ownership Inquiry",
+      "Description": "Revolutionizing transparency with a blockchain-based solution for viewing product ownership history. Designed the front-end to seamlessly interact with the Solidity smart contract.",
+      "Technologies": ["Solidity", "Front-end"]
+    },
+    {
+      "ProjectName": "Task Management System",
+      "Description": "Pioneered a streamlined system for project and task management at Monassist using Angular. Presented this innovative solution with a robust .Net back-end for Senior Design Project at the university.",
+      "Technologies": ["Angular", ".Net"]
+    },
+    {
+      "ProjectName": "Event Sharing Platform",
+      "Description": "Empowering communities to share and participate in events through a user-friendly React-based platform.",
+      "Technologies": ["React"]
+    },
+    {
+      "ProjectName": "Hotel Reservation Website",
+      "Description": "Devised my inaugural web project - a sophisticated hotel reservation site with a user-friendly interface and efficient Php backend.",
+      "Technologies": ["Php", "Database Design"]
+    }
+  ],
+  "CommunityInvolvement": [
+    {
+      "Organization": "Akdeniz GKT",
+      "Role": "IT and Digital Department / Media and Broadcasting Department Post Design Team Member",
+      "Duration": "2 years",
+      "Period": "2020-2021",
+      "Description": "Actively contributed to technological and media initiatives, utilizing creative skills to enhance communication and outreach efforts."
+    },
+    {
+      "Organization": "Akdeniz GKT",
+      "Role": "Media and Digital Department Coordinator",
+      "Duration": "1 year",
+      "Period": "2021-2022",
+      "Description": "Led a dynamic team, orchestrating digital media campaigns and spearheading innovative projects for the campus community."
+    },
+    {
+      "Organization": "IEEE",
+      "Role": "Computer Society Vice Chairman",
+      "Duration": "1 year",
+      "Period": "2021-2022",
+      "Description": "Held a key leadership role in the prestigious IEEE, driving technological initiatives and fostering collaboration among computer enthusiasts."
+    }
+  ],
+  "Education": [
+    {
+      "School": "IMKB Süleyman Demirel High School",
+      "Degree": "High School Diploma",
+      "Period": "2014-2018"
+    },
+    {
+      "School": "Akdeniz University",
+      "Major": "Computer Science Engineering",
+      "Degree": "Bachelor's Degree",
+      "Period": "2018-2023"
+    }
+  ],
+  "Hobbies": [
+    "Enthusiastic Hiker",
+    "Melodic Music Aficionado",
+    "Tech Explorer",
+    "Fitness Enthusiast"
+  ],
+  "AreasOfInterest": [
+    "Web Development",
+    "Blockchain Technology",
+    "Artificial Intelligence"
+  ]
+}

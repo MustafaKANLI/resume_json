@@ -1,0 +1,191 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Mustafa KANLI",
+    "label": "Junior Software Engineer",
+    "image": "https://mustafakanli.com/static/media/profile2.526c6e9f853f1433d8b2.jpg",
+    "email": "info@mustafakanli.com",
+    "url": "https://mustafakanli.com/",
+    "summary": "Experienced Full-Stack Developer with a creative edge, devoted to exploring cutting-edge web technologies and harnessing the power of blockchain solutions. Proficient in React, Angular, .NET, Node.js, and Solidity, I specialize in crafting exceptional user experiences and writing clean, efficient code. From dynamic web applications to innovative blockchain projects, I bring versatility to every endeavor. Let's join forces and bring your digital dreams to life!",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "MustafaKANLI",
+        "url": "https://github.com/MustafaKANLI/"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "mustafakanli",
+        "url": "https://linkedin.com/in/mustafakanli"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Monassist Software",
+      "location": "Antalya, TR",
+      "description": "Monassist Software",
+      "position": "Front-end Developer",
+      "url": "https://monassist.com/",
+      "startDate": "2022-09",
+      "summary": "Contributed to the development of dynamic web applications, creating seamless interfaces and implementing features for efficient user interaction. ",
+      "highlights": ["Maintain web apps with Angular, Nextjs and React."]
+    },
+    {
+      "name": "Turkish Aerospace",
+      "location": "Antalya, TR",
+      "description": "Turkish Aerospace",
+      "position": "Summer Intern",
+      "url": "https://tai.com/",
+      "startDate": "2022-07",
+      "endDate": "2022-08",
+      "summary": "Completed a highly successful summer internship, honing skills in React and .Net development while contributing to real-world projects."
+    },
+    {
+      "name": "Turkish Aerospace",
+      "location": "Antalya, TR",
+      "description": "Turkish Aerospace",
+      "position": "SKY Experience Traniee Engineer",
+      "url": "https://tai.com/",
+      "startDate": "2021-09",
+      "endDate": "2022-06",
+      "summary": "Participated in the prestigious SKY Experience program, gaining hands-on experience in React and Nodejs while working on aerospace-related projects. "
+    }
+  ],
+  "education": [
+    {
+      "institution": "Akdeniz University",
+      "url": "https://cse.akdeniz.edu.tr/",
+      "area": "Computer Science Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2019-09",
+      "endDate": "2023",
+      "score": "2.8",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front-end Development",
+      "keywords": ["React", "Angular", "Nextjs", "TypeScript"]
+    },
+    {
+      "name": "Back-end Development",
+      "keywords": [".Net", "Nodejs", "Php"]
+    },
+    {
+      "name": "Database",
+      "keywords": ["MongoDB", "MySQL", "PostgreSQL"]
+    },
+    {
+      "name": "Blockchain",
+      "keywords": ["Ethereum", "Solidity", "Web3js"]
+    },
+    {
+      "name": "Other",
+      "keywords": ["Git", "Docker", "Python", "Java"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Turkish",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Web Development",
+      "keywords": ["React", "Angular", "Nextjs", ".Net", "Nodejs"]
+    },
+    {
+      "name": "Blockchain",
+      "keywords": ["Ethereum", "Solidity", "Web3js"]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": ["Machine Learning", "Deep Learning"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Etl Project",
+      "description": "Empowering users to extract, process, and save data from diverse sources using Nextjs. Crafted a captivating promotional website with Tailwind to showcase the application.",
+      "highlights": ["Nextjs", "React", "Tailwind"],
+      "startDate": "2023-04",
+      "url": "etl.monassist.com",
+      "roles": ["Front-end Developer"],
+      "type": "application"
+    },
+    {
+      "name": "Product Ownership Inquiry",
+      "description": "Revolutionizing transparency with a blockchain-based solution for viewing product ownership history. Designed the front-end to seamlessly interact with the Solidity smart contract.",
+      "highlights": ["Solidity", "Front-end"],
+      "startDate": "2023-05",
+      "endDate": "2023-06",
+      "roles": ["Blockchain Developer", "Front-end Developer"],
+      "type": "blockchain"
+    },
+    {
+      "name": "Task Management System",
+      "description": "Pioneered a streamlined system for project and task management at Monassist using Angular. Presented this innovative solution with a robust .Net back-end for Senior Design Project at the university.",
+      "highlights": ["Angular", ".Net"],
+      "startDate": "2022-09",
+      "endDate": "2023-02",
+      "url": "wf.monassist.com",
+      "roles": ["Front-end Developer", "Back-end Developer"],
+      "type": "application"
+    },
+    {
+      "name": "Event Sharing Platform",
+      "description": "Empowering communities to share and participate in events through a user-friendly React-based platform.",
+      "highlights": ["React"],
+      "startDate": "2022-05",
+      "roles": ["Front-end Developer"],
+      "type": "application"
+    },
+    {
+      "name": "Hotel Reservation Website",
+      "description": "Devised my inaugural web project - a sophisticated hotel reservation site with a user-friendly interface and efficient Php backend.",
+      "highlights": ["Php", "Database Design"],
+      "startDate": "2021-04",
+      "endDate": "2021-06",
+      "roles": ["Front-end Developer", "Back-end Developer"],
+      "type": "website"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Akdeniz University Entrepreneurship Club",
+      "position": "Media and Digital Department Coordinator",
+      "url": "https://www.akdenizgkt.com/",
+      "startDate": "2021-09",
+      "endDate": "2022-06",
+      "summary": "Led a dynamic team, managed social media accounts and announced organized events for the campus community."
+    },
+    {
+      "organization": "IEEE Akdeniz University Student Branch",
+      "position": "Computer Society Vice Chairman",
+      "startDate": "2022-09",
+      "endDate": "2022-02",
+      "summary": "Organized events and provided trainings in the field of computer science."
+    }
+  ],
+  "references": [
+    {
+      "reference": "Mehmet Evren COŞKUN \\n Turkish Aerospace Software Principal \\n mevrencoskun@gmail.com"
+    },
+    {
+      "reference": "Songül DEMİRTAŞ \\n Turkish Aerospace Project Chief \\n songul.demirtas@tai.com.tr"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2022-11-02T12:00:00",
+    "theme": "macchiato"
+  }
+}
